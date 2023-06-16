@@ -1,0 +1,6 @@
+amanita,2,3
+cu,1
+eu,2,3
+jorge,2,3
+josue
+
